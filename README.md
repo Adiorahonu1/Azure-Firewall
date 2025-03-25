@@ -61,6 +61,9 @@ Azure Firewall acts as a **stateful, cloud-native security appliance**, allowing
 
 ---
 
+📸 **Screenshot: Resource Topology**  
+<img src="assets/Screenshot 2025-03-25 at 08.04.51.png" alt="Resource Topology" width="600">  
+
 ## **📊 3️⃣ Azure Firewall Log Monitoring & Threat Detection**  
 
 To enhance **threat visibility**, **Azure Firewall logs** were integrated with **Azure Monitor & Log Analytics**.  
